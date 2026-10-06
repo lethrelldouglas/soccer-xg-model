@@ -1,0 +1,8 @@
+statsbombpy
+mplsoccer
+scikit-learn
+pandas
+numpy
+matplotlib
+itscalledsoccer
+pyarrow
